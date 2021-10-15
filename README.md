@@ -11,6 +11,7 @@ This repo is made for my HackerRank 30 days of Code challenge in Python
 * Day 4 : Class Vs Instance
 * Day 5 : Loops
 * Day 6 : Let's Review
+* Day 7 : Arrays
 ## My HackerRank Profile
 <a href='https://www.hackerrank.com/henry_richard_7'>
   Vist Here
