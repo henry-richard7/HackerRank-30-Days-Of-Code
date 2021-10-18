@@ -4,15 +4,17 @@
 This repo is made for my HackerRank 30 days of Code challenge in Python
 
 # Completed Challenges
-* Day 0 : Hello, World
-* Day 1 : Data Types
-* Day 2 : Operators
-* Day 3 : Intro To Conditionals Statements
-* Day 4 : Class Vs Instance
-* Day 5 : Loops
-* Day 6 : Let's Review
-* Day 7 : Arrays
-* Day 8: Dictionaries and Maps
+* Day 0  : Hello, World
+* Day 1  : Data Types
+* Day 2  : Operators
+* Day 3  : Intro To Conditionals Statements
+* Day 4  : Class Vs Instance
+* Day 5  : Loops
+* Day 6  : Let's Review
+* Day 7  : Arrays
+* Day 8  : Dictionaries and Maps
+* Day 9  : Recursion 3 (Factorial)
+* Day 10 : Binary Numbers
 
 ## My HackerRank Profile
 <a href='https://www.hackerrank.com/henry_richard_7'>
