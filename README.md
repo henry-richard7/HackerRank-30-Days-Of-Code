@@ -15,6 +15,8 @@ This repo is made for my HackerRank 30 days of Code challenge in Python
 * Day 8  : Dictionaries and Maps
 * Day 9  : Recursion 3 (Factorial)
 * Day 10 : Binary Numbers
+* Day 11 : 2D Arrays
+* Day 12 : Inheritance
 
 ## My HackerRank Profile
 <a href='https://www.hackerrank.com/henry_richard_7'>
